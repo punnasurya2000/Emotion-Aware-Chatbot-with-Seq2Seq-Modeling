@@ -1,6 +1,6 @@
 # Seq2Seq Response Generation for Emotion-Aware Chatbot
 
-This project focuses on **Step 2** of developing an emotion-aware chatbot: generating empathetic and contextually relevant responses using a Seq2Seq model with an LSTM-based encoder-decoder architecture. The aim is to create a conversational agent capable of producing emotionally aligned replies.
+This project focuses on developing an emotion-aware chatbot: generating empathetic and contextually relevant responses using a Seq2Seq model with an LSTM-based encoder-decoder architecture. The aim is to create a conversational agent capable of producing emotionally aligned replies.
 
 ---
 
